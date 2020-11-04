@@ -13,5 +13,6 @@ fungsi `eval()` sering digunakan untuk mengevaluasi input dari user, input dari 
 
 ![01.png](/gambar/01.png)
 
+2. setiap data yang di inputkan oleh user aka masuk ke variable 
 
-
+![02.png](/gambar/02.png)
